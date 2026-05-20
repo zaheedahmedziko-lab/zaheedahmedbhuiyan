@@ -3,7 +3,7 @@ layout: post.njk
 title: Starting My Academic Journey at Towson University
 summary: A short reflection on beginning my Ph.D. journey and academic work at
   Towson University.
-date: 2026-05-16
+date: 2025-08-25T12:00:00.000-04:00
 permalink: /blog/starting-my-towson-journey/
 ---
 ![](/assets/uploads/towson-from-top.jpg "Ariel view of Towson University")
